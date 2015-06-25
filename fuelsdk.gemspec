@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = "fuelsdk"
-  s.version = "0.9"
-  s.date = "2013-05-10"
+  s.version = "0.9.1"
+  s.date = "2015-06-24"
   s.summary = "ExactTarget Fuel SDK for Ruby"
   s.email = "gary@500friends.com"
   s.homepage = "http://github.com/gkmlo/FuelSDK-Ruby"
@@ -10,6 +10,6 @@ Gem::Specification.new do |s|
   s.authors = ["Michael Allen Clark", "Gary Lo"]
   s.files = ["README.md", "lib/ET_Client.rb"]
   s.add_dependency("savon", "~> 2.0")
-  s.add_dependency('json', '~> 1.7.0')
+  s.add_dependency('json', '~> 1.8.0')
   s.add_dependency('jwt', '= 0.1.6')
 end

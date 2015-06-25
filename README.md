@@ -12,8 +12,8 @@ Ruby Version 1.8.7
 Gems:
 
 - [savon (2.x)](http://rubygems.org/gems/savon)
-- [json (1.7.x)](http://rubygems.org/gems/json)
-- [jwt (0.1.6)](https://rubygems.org/gems/jwt)
+- [json (1.8.x)](http://rubygems.org/gems/json)
+- [jwt (1.5.1)](https://rubygems.org/gems/jwt)
 
 
 ## Getting Started ##
